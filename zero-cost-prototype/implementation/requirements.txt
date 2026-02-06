@@ -1,0 +1,30 @@
+# AttestMCP Research Prototype - Requirements
+# ============================================
+# 
+# Total cost to run experiments: $0.05 - $0.50
+#
+# REQUIRED (for real LLM testing):
+# --------------------------------
+# Choose ONE of these based on which API you want to use:
+
+# For Claude API (recommended):
+anthropic>=0.18.0
+
+# For OpenAI API (alternative):
+openai>=1.12.0
+
+# OPTIONAL (for enhanced features):
+# ---------------------------------
+# For nicer output formatting:
+rich>=13.0.0
+
+# For data analysis:
+pandas>=2.0.0
+
+# For visualization:
+matplotlib>=3.7.0
+
+# DEVELOPMENT:
+# ------------
+pytest>=7.0.0
+black>=23.0.0
