@@ -165,8 +165,8 @@ attestmcp-security-research/
 
 ### Quick Start (5 minutes)
 ```bash
-git clone [this-repository]
-cd attestmcp-security-research/zero-cost-prototype
+git clone https://github.com/Shekhar-Kaviraj-Tiruwa-1/Attestmcp-security-research.git
+cd Attestmcp-security-research/zero-cost-prototype
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
