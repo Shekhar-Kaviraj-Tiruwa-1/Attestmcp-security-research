@@ -201,11 +201,10 @@ Prompt Injection: 26.7% reduction (11/25 → 8/25)
 > - **Communicate complex technical work** through comprehensive documentation
 > - **Balance theoretical knowledge** with practical implementation skills"
 
-## 📞 Contact & Discussion
 
 This research is part of my portfolio demonstrating **security engineering** and **research replication** capabilities. I'm actively expanding this work and exploring additional security protocol implementations.
 
-**Available for discussion on**: Implementation details, methodology questions, potential collaborations, or extending this research.
+**Available for discussion on**: Implementation details, methodology questions, potential collaborations, or extending this research and building something better.
 
 ---
 
